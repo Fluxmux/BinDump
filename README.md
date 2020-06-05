@@ -28,7 +28,6 @@ python bindump.py sample.txt
 
 ## Help
 
-Any advise for common problems or issues.
 ```
 python bindump.py --help
 ```
