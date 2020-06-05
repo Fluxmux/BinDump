@@ -6,6 +6,8 @@ BinDump
 
 Simple python script for reading any file in binary format.
 
+![Screenshot](https://github.com/Fluxmux/BinDump/blob/master/demo.png)
+
 ## Getting Started
 
 ### Dependencies
