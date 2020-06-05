@@ -1,7 +1,4 @@
-# Project Title
-
-BinDump
-
+# BinDump
 ## Description
 
 Simple python script for reading any file in binary format.
